@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+sentence-transformers
+pytest
+chromadb
+anthropic
+google-generativeai
+python-dotenv
